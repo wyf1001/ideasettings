@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="TestMapping。xml" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>
