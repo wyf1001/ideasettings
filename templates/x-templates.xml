@@ -1,0 +1,9 @@
+<templateSet group="x-templates">
+  <template name="+" value="  功能描述:$params$&#10;  * @return: $return$&#10;  * @Author: $user$&#10;  * @Date: $date$ $time$&#10;  **/" description="function" toReformat="false" toShortenFQNames="true">
+    <variable name="params" expression="" defaultValue="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=' * @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n':'')}; return result&quot;, methodParameters())groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=' * @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n':'')}; return result&quot;, methodParameters())" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
