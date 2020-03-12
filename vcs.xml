@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/wyf1001/ideasettings.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:hemin1003/spring-cloud-study.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\yotta\project\官网\demo" />
+    <option name="cloneParentDir" value="D:\demo" />
   </component>
 </application>
