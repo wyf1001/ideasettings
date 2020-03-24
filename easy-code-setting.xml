@@ -177,6 +177,10 @@
                     <option name="columnType" value="longtext" />
                     <option name="javaType" value="java.lang.Object" />
                   </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="DATE" />
+                    <option name="javaType" value="java.lang.Date" />
+                  </TypeMapper>
                 </list>
               </option>
               <option name="name" value="Default" />
