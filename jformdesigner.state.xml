@@ -14,8 +14,10 @@
       <entry key="newform.i18n.enabled" value="true" />
       <entry key="newform.i18n.bundlename" value="form" />
       <entry key="stringeditor.size" value="676, 246" />
+      <entry key="newform.i18n.noprefix" value="true" />
       <node name="forms">
         <entry key="paletteexpanded867213144" value="components,containers,windows,custom" />
+        <entry key="paletteexpanded1027342287" value="components,containers,windows" />
       </node>
     </node>
   </component>
