@@ -1,0 +1,16 @@
+<application>
+  <component name="JFormDesigner">
+    <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
+    <entry key="license.filechooser.lastdirpath" value="F:\迅雷下载" />
+    <entry key="license.filechooser.size" value="639, 326" />
+    <node name="designer">
+      <entry key="newcontainer.layoutmanager" value="java.awt.FlowLayout" />
+      <entry key="newform.superclass.history1" value="javax.swing.JFrame" />
+      <entry key="newform.superclass" value="javax.swing.JFrame" />
+      <entry key="newform.buttonbar" value="ok cancel" />
+      <entry key="newform.toolkit" value="Swing" />
+      <entry key="newform.i18n.enabled" value="true" />
+      <entry key="newform.i18n.bundlename" value="form" />
+    </node>
+  </component>
+</application>
