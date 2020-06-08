@@ -42,6 +42,10 @@
           <option name="url" value="git@gitee.com:yottaclouds/FH-WEB.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.5.87:9098" />
+          <option name="userName" value="root" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\yotta\project" />
